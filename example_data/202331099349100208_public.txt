@@ -1,0 +1,1159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.irs.gov/efile" returnVersion="2022v5.0">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2023-04-19T07:09:30-04:00</ReturnTs>
+    <TaxPeriodEndDt>2022-12-31</TaxPeriodEndDt>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2022-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>306398346</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LARRY AND ELIZABETH CRAWFORD FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% Elizabeth Crawford</InCareOfNm>
+      <BusinessNameControlTxt>LARR</BusinessNameControlTxt>
+      <ForeignPhoneNum>9707990148</ForeignPhoneNum>
+      <USAddress>
+        <AddressLine1Txt>14 PERINS VISTA DR</AddressLine1Txt>
+        <CityNm>DURANGO</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>813015858</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Elizabeth Crawford</PersonNm>
+      <PersonTitleTxt>Co-Trustee</PersonTitleTxt>
+      <SignatureDt>2023-04-19</SignatureDt>
+    </BusinessOfficerGrp>
+    <TaxYr>2022</TaxYr>
+    <BuildTS>2023-04-26 12:10:37Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="IRS990PF" softwareId="22016104" softwareVersionNum="V1.0" documentName="IRS990PF" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment BinaryAttachment">
+      <InitialReturnInd>X</InitialReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>746911</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>641</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>641</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>641</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>8599</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>8599</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>8599</DividendsAdjNetIncmAmt>
+        <GrossRentsRevAndExpnssAmt>0</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>0</GrossRentsNetInvstIncmAmt>
+        <GrossRentsAdjNetIncmAmt>0</GrossRentsAdjNetIncmAmt>
+        <NetRentalIncomeOrLossAmt>0</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">-50754</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>147268</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <IncmModificationsAdjNetIncmAmt>0</IncmModificationsAdjNetIncmAmt>
+        <GrossSalesLessRetAndAllwncAmt>0</GrossSalesLessRetAndAllwncAmt>
+        <CostOfGoodsSoldAmt>0</CostOfGoodsSoldAmt>
+        <GrossProfitRevAndExpnssAmt referenceDocumentName="SalesOfInventorySchedule">0</GrossProfitRevAndExpnssAmt>
+        <GrossProfitAdjNetIncmAmt>0</GrossProfitAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch21" referenceDocumentName="OtherIncomeSchedule2">458</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>458</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>458</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>-41056</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>9698</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>9698</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>0</CompOfcrDirTrstAdjNetIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>0</OthEmplSlrsWgsRevAndExpnssAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>0</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>0</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>0</PensionEmplBnftDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentName="LegalFeesSchedule">0</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch1" referenceDocumentName="AccountingFeesSchedule">500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfFeesSch1" referenceDocumentName="OtherProfessionalFeesSchedule">9783</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>0</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>0</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <InterestRevAndExpnssAmt>0</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>0</InterestNetInvstIncmAmt>
+        <InterestAdjNetIncmAmt>0</InterestAdjNetIncmAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSch1" referenceDocumentName="TaxesSchedule">192</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>0</TaxesAdjNetIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentName="DepreciationSchedule">0</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>0</DeprecAndDpltnNetInvstIncmAmt>
+        <DeprecAndDpltnAdjNetIncmAmt>0</DeprecAndDpltnAdjNetIncmAmt>
+        <OccupancyRevAndExpnssAmt>0</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>0</OccupancyNetInvstIncmAmt>
+        <OccupancyAdjNetIncmAmt>0</OccupancyAdjNetIncmAmt>
+        <OccupancyDsbrsChrtblAmt>0</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>0</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>0</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>0</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>0</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>0</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>0</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="AmortizationSch1 OtherExpensesSch1" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">2</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>0</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>10477</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>49500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>49500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>59977</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>49500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-101033</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>9698</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>9698</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>0</CashBOYAmt>
+        <SavAndTempCashInvstBOYAmt>23731</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>49874</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>49874</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>0</AcctRcvblAmt>
+        <AcctRcvblAllwncDbtflAcctAmt>0</AcctRcvblAllwncDbtflAcctAmt>
+        <AcctRcvblBOYAmt>0</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>0</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>0</AcctRcvblEOYFMVAmt>
+        <PledgesRcvblAmt>0</PledgesRcvblAmt>
+        <PledgesRcvblAllwncDbtflAcctAmt>0</PledgesRcvblAllwncDbtflAcctAmt>
+        <PledgesRcvblBOYAmt>0</PledgesRcvblBOYAmt>
+        <PledgesRcvblEOYAmt>0</PledgesRcvblEOYAmt>
+        <PledgesRcvblEOYFMVAmt>0</PledgesRcvblEOYFMVAmt>
+        <GrantsReceivableBOYAmt>0</GrantsReceivableBOYAmt>
+        <GrantsReceivableEOYAmt>0</GrantsReceivableEOYAmt>
+        <GrantsReceivableEOYFMVAmt>0</GrantsReceivableEOYFMVAmt>
+        <RcvblFromOfficersBOYAmt>0</RcvblFromOfficersBOYAmt>
+        <RcvblFromOfficersEOYAmt referenceDocumentName="OtherReceivablesFromOfficersSchedule">0</RcvblFromOfficersEOYAmt>
+        <OtherNtsAndLoansRcvblBOYAmt>0</OtherNtsAndLoansRcvblBOYAmt>
+        <OtherNtsAndLoansRcvblEOYAmt referenceDocumentName="OtherNotesLoansReceivableLongSchedule OtherNotesLoansReceivableShortSchedule2">0</OtherNtsAndLoansRcvblEOYAmt>
+        <InventoriesBOYAmt>0</InventoriesBOYAmt>
+        <InventoriesEOYAmt>0</InventoriesEOYAmt>
+        <InventoriesEOYFMVAmt>0</InventoriesEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>0</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>0</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>0</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>0</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentName="InvestmentsGovtObligationsSchedule">0</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>0</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>434181</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSch1" referenceDocumentName="InvestmentsCorpStockSchedule">361166</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>492190</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>260082</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSch1" referenceDocumentName="InvestmentsCorpBondsSchedule">225001</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>204847</CorporateBondsEOYFMVAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentName="InvestmentsLandSchedule2">0</LandBldgInvestmentsEOYAmt>
+        <MortgageLoansBOYAmt>0</MortgageLoansBOYAmt>
+        <MortgageLoansEOYAmt>0</MortgageLoansEOYAmt>
+        <MortgageLoansEOYFMVAmt>0</MortgageLoansEOYFMVAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentName="InvestmentsOtherSchedule2">0</OtherInvestmentsEOYAmt>
+        <LandEOYAmt referenceDocumentName="LandEtcSchedule2">0</LandEOYAmt>
+        <OtherAssetsBOYAmt referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>717994</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>636041</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>746911</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>0</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>0</AccountsPayableEOYAmt>
+        <GrantsPayableBOYAmt>0</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>0</GrantsPayableEOYAmt>
+        <DeferredRevenueBOYAmt>0</DeferredRevenueBOYAmt>
+        <DeferredRevenueEOYAmt>0</DeferredRevenueEOYAmt>
+        <LoansFromOfficersBOYAmt>0</LoansFromOfficersBOYAmt>
+        <LoansFromOfficersEOYAmt referenceDocumentName="LoansFromOfficersSchedule">0</LoansFromOfficersEOYAmt>
+        <MortgagesAndNotesPayableEOYAmt referenceDocumentName="MortgagesAndNotesPayableSchedule">0</MortgagesAndNotesPayableEOYAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabilitiesSch1" referenceDocumentName="OtherLiabilitiesSchedule">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSch1" referenceDocumentName="OtherLiabilitiesSchedule">0</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowFASB117Ind>X</OrgDoesNotFollowFASB117Ind>
+        <CapitalStockBOYAmt>717994</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>636041</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>0</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>0</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>717994</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>636041</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>717994</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>636041</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>717994</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-101033</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSch1" referenceDocumentName="OtherIncreasesSchedule">19080</OtherIncreasesAmt>
+        <SubtotalAmt>636041</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentName="OtherDecreasesSchedule">0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>636041</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>3063</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>11533</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8470</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8470</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>2639</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>12472</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-9833</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-9833</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>4232</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>7462</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3230</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3230</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>23053</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>19521</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3532</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3532</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>5630</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>7840</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2210</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2210</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>2271</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>4994</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2723</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2723</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>23378</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>20567</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2811</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2811</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>21453</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>12446</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9007</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9007</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>9369</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>20387</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-11018</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-11018</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>2921</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>11787</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8866</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8866</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>14259</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>11760</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2499</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2499</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>33432</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>34119</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-687</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-687</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Public Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>1568</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>1600</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-32</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-32</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-29220</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-21534</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>135</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>135</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>135</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <OriginalReturnTaxPaidAmt>135</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>135</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentName="ExplanationOfLegisPoliticalActivities BinaryAttachment">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd referenceDocumentName="ActivitiesNotPreviouslyReportedExplanation">false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentName="BinaryAttachment">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentName="DissolutionStatement LiquidationExplanationStatement BinaryAttachment">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CO</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentName="ExplanationOfNonFilingWithAGStatement">true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentName="SubstantialContributorsSchedule">false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd referenceDocumentName="TransfersFromControlledEntitiesSchedule TransfersToControlledEntitiesSchedule">false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd referenceDocumentName="DonorAdvisedFundStatement">false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>Elizabeth Crawford</IndividualWithBooksNm>
+        <PhoneNum>9707990148</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>14 PERINS VISTA DR</AddressLine1Txt>
+          <CityNm>DURANGO</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>813015858</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Larry S Crawford</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>14 Perins Vista Drive</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Elizabeth Crawford</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>14 Perins Vista Drive</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Lucinda Ann James</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>201 Halto Via Circle</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Kimberly Crawford Tucker</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2468 CR 203</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Melissa Christine Dastrup</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>770 E 31st St</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Sarah Elizabeth Campbell</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7 Pine Hill Rd</AddressLine1Txt>
+            <CityNm>Croton on Hudson</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10520</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="CompensationExplanation1" referenceDocumentName="CompensationExplanation">Katherine Crawford Uhl</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3875 Lemmon Lane</AddressLine1Txt>
+            <CityNm>Millcreek</CityNm>
+            <StateAbbreviationCd>UT</StateAbbreviationCd>
+            <ZIPCd>84124</ZIPCd>
+          </USAddress>
+          <TitleTxt>Co-Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Support for 7 music-related non-profits</Description1Txt>
+        <Expenses1Amt>11000</Expenses1Amt>
+        <Description2Txt>Support for 6 non-profits providing services to the needy</Description2Txt>
+        <Expenses2Amt>12000</Expenses2Amt>
+        <Description3Txt>Support for 6 non-profits providing GED trade and college scholarships</Description3Txt>
+        <Expenses3Amt>7000</Expenses3Amt>
+        <Description4Txt>Support for 6 community organizations: religious addiction recovery healthcare first responders family services</Description4Txt>
+        <Expenses4Amt>13500</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>n a</Description1Txt>
+        <Description2Txt>n a</Description2Txt>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>802933</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>31805</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>834738</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt referenceDocumentName="ReductionExplanationStatement">0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>834738</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentName="CashDeemedCharitableExplanationStatement">12521</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>822217</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>41111</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>41111</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>135</TaxBasedOnInvestmentIncomeAmt>
+        <IncomeTaxAmt>0</IncomeTaxAmt>
+        <TotalTaxAmt>135</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>40976</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>40976</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>40976</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <PFQualifyingDistributionsGrp>
+        <ExpensesAndContributionsAmt referenceDocumentName="BorrowedFundsElection">49500</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt referenceDocumentName="CashDistributionExplanationStatement">0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>49500</QualifyingDistributionsAmt>
+      </PFQualifyingDistributionsGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>40976</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>50355</UndistributedIncomePYAmt>
+        <ExcessDistributionCyovYr5Amt>6975</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>22728</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>11363</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>19060</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>12182</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>72308</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>49500</QualifyingDistributionsAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <TotalCorpusAmt>72308</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>50355</Taxable2Amt>
+        <UndistributedIncomeCYAmt>40976</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>72308</ExcessDistriCyovToNextYrAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Larry Elizabeth Crawford</ContributingManagerNm>
+        <ShareholderManagerNm>none</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Animas Alano Club</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1076</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Recovery</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Boys and Girls Club of SW Colorado</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2154</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Youth Services</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Ducks Unlimited</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One Waterfowl Way</AddressLine1Txt>
+            <CityNm>Memphis</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38120</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Conservation</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Durango Adult Education Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>701 Camino del Rio</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Durango Choral Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1043</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Durango Food Bank</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 156</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Food assistance</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Durango High School Choir</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2390 Main Ave</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music scholarships</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Durango One Hundred Club</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3146</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>First responder family assistance</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Ft Lewis College Fdn scholarship fd</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 Rim Drive</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hospice of Mercy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1010 Three Springs Blvd</AddressLine1Txt>
+            <AddressLine2Txt>Suite 248</AddressLine2Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Healthcare</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Housing Solutions of SW Colorado</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>295 Girard St</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>housing assistance</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Manna Soup Kitchen</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1196</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>food assistance</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Music in the Mountains</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3751</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Pheasants Forever</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1783 Buerkle Circle</AddressLine1Txt>
+            <CityNm>St Paul</CityNm>
+            <StateAbbreviationCd>MN</StateAbbreviationCd>
+            <ZIPCd>55110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Conservation</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>San Juan Symphony</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1073</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Southwest Civic Winds</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3781</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Third Avenue Arts</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1383</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Music</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Unitarian Universalist Fellowship</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>419 San Juan Drive</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religion</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>United Way of SW Colorado</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 3040</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>needy</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Volunteers of America CO Branch</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2107</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>needy</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sailors Youth LaCross Club</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>184 Kings Ferry Rd</AddressLine1Txt>
+            <CityNm>Montrose</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10548</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>La Plata County Search Rescue</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1885</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>family assistance</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Big Brothers Big Sisters</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2154</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>youth services</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Annie's Orphans</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1630 CR 214</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>animal rescue</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>With Arms Open Wide NYPD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 435</AddressLine1Txt>
+            <CityNm>Massapequa</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11758</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>family services</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Juniata College Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1700 Moore St</AddressLine1Txt>
+            <CityNm>Huntingdon</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16652</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Alumni fund</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Women's Resource Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>679 E 2nd Ave</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarships</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Planned Parenthood</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7155 E 38th Ave</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>medical services</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Community Connections</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>281 Sawyer Drive</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>family services</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Durango Education Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 E 12th St</AddressLine1Txt>
+            <CityNm>Durango</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>No Relationship</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>educational services</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>49500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <ProgramServiceRevenueDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevenueDtl>
+        <MembershipDuesAndAssmntGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </MembershipDuesAndAssmntGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DividendsAndInterestFromSecDtl>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </DividendsAndInterestFromSecDtl>
+        <NetRntlIncmReDebtFincdPropGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReDebtFincdPropGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <NetRentalIncomePersonalPropGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetRentalIncomePersonalPropGrp>
+        <OtherInvestmentIncomeGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherInvestmentIncomeGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </NetIncomeLossFromSpecialEvtGrp>
+        <GrossProfitLossSlsOfInvntryGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </GrossProfitLossSlsOfInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>0</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>0</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="AccountingFeesSchedule">
+      <AccountingFeesDetail>
+        <CategoryTxt>trust tax information prep</CategoryTxt>
+        <Amt>500</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsCorpBondsSchedule">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Vanguard S/T Invmt Grade</BondNm>
+        <EOYBookValueAmt>225001</EOYBookValueAmt>
+        <EOYFMVAmt>204847</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsCorpStockSchedule">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Corporate Stock</StockNm>
+        <EOYBookValueAmt>361166</EOYBookValueAmt>
+        <EOYFMVAmt>492190</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="InvestmentsGovtObligationsSchedule">
+      <USGovtObligationsBookVlEOYAmt>0</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>0</USGovtObligationsEOYFMVAmt>
+      <StateLocalSecBookVlEOYAmt>0</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>0</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherExpensesSchedule">
+      <OtherExpensesScheduleGrp>
+        <Desc>Payments made on behalf of the trust</Desc>
+        <RevenueAndExpensesPerBooksAmt>2</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch21" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherIncomeSchedule2">
+      <OtherIncomeDetail>
+        <Desc>Non-dividend distributions</Desc>
+        <RevenueAndExpensesPerBooksAmt>439</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>439</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>439</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Capital Gain distributions</Desc>
+        <RevenueAndExpensesPerBooksAmt>19</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>19</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>19</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherIncreasesSchedule">
+      <OtherIncreasesDetail>
+        <Desc>unrealized appreciation on donated stock</Desc>
+        <Amt>19080</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfFeesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="OtherProfessionalFeesSchedule">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Management Fees</CategoryTxt>
+        <Amt>8593</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Miscellaneous investment expenses</CategoryTxt>
+        <Amt>1190</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSch1" softwareId="21013404" softwareVersionNum="V1.0" documentName="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>Foreign taxes paid on dividends and interest</CategoryTxt>
+        <Amt>192</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>
